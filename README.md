@@ -1,2 +1,3 @@
-#my name is pratiksha >>README.md
+i have change the in file
 echo '#my name is pratiksha'
+heyyyyyyyyyy
